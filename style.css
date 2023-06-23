@@ -67,4 +67,5 @@ body {
 @media(max-width:800px)
  {.escola:{ color: white;
  .cabecalho{background-image: linear-gradient(yellow, white) ;
-    justify-content: center;}
+    justify-content: center;
+.estudante:background-image: 90px;}
