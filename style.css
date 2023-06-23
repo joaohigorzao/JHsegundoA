@@ -65,7 +65,12 @@ body {
 
 .cabecalho{background-image: linear-gradient(red, black) ;}
 @media(max-width:800px)
- {.escola:{ color: white;
+ {
+    .escola:{ color: white;
  .cabecalho{background-image: linear-gradient(yellow, white) ;
     justify-content: center;
 .estudante:background-image: 90px;}
+.estudante-imagem{
+    width: 50px;
+}
+ }
