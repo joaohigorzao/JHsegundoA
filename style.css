@@ -66,8 +66,8 @@ body {
 .cabecalho{background-image: linear-gradient(red, black) ;}
 
 @media(max-width:720px){
-    .margin: 89;
-    .padding: 90;
+    margin: 89;
+    padding: 90;
 }
 body {
     font-family: 'Poppins', sans-serif;
