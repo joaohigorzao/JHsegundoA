@@ -41,6 +41,8 @@ body {
     width: 35%;
 }
 
+.escola-texto-um
+{padding: 10px 0;}
 
 .escola-titulo{
     padding: 24px 0;
@@ -126,6 +128,7 @@ body {
 .estudante-div{
     text-align: center;
     padding: 8px 0;
+
 }
 
 .cabecalho{background-image: linear-gradient(rgb(240, 132, 8), rgb(9, 242, 9)) ;}
