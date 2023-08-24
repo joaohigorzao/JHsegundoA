@@ -129,6 +129,9 @@ body {
     text-align: center;
     padding: 8px 0;
 
+    .escola-texto-um
+    {padding: 7px 0;}
+
 }
 
 .cabecalho{background-image: linear-gradient(rgb(240, 132, 8), rgb(9, 242, 9)) ;}
